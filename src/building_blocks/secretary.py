@@ -92,8 +92,9 @@ class Secretary: # TODO: add some construct message from LLM
                             if source_country not in one_tuple:
                                 suggestions.append("Invalid input format to {}: Input to {} should be in each tuple of the list".format(action_name, source_country))
                     if isinstance(message, list) and not (isinstance(message[0], list) or isinstance(message[0], tuple)):
-                        if source_country not in one_tuple:
-                            suggestions.append("Invalid input format to {}: Input to {} should be in each tuple of the list".format(action_name, source_country))
+                        for one_tuple in message:
+                            if source_country not in one_tuple:
+                                suggestions.append("Invalid input format to {}: Input to {} should be in each tuple of the list".format(action_name, source_country))
                 """
                 requirement for actions with input type: country_string
                 each entity should be a tuple of (country name, a corresponding message)

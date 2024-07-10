@@ -1,0 +1,973 @@
+Trigger- Country G invaded Country F and took control of their capital
+
+
+===================
+~~~~~~~Day 1~~~~~~~
+===================
+Germany
+
+To Japan- Germany has chosen to Request Military Alliance to Japan
+To Russia- Germany has chosen to Request Military Alliance to Russia
+To United States- Germany has chosen to Request Non-Intervention Treaty to United States
+--------------
+
+Japan
+
+To United States- Japan has chosen to Request Military Alliance to United States
+To Britain- Japan has chosen to Request Military Alliance to Britain
+To Germany- Japan has chosen to Request Non-Intervention Treaty to Germany
+--------------
+
+Italy
+
+To United States- Italy has chosen to Request Military Alliance to United States
+To Britain- Italy has chosen to Request Military Alliance to Britain
+To China- Italy has chosen to Request Non-Intervention Treaty to China
+To Russia- Italy has chosen to Request Non-Intervention Treaty to Russia
+To France- Italy has chosen to Request Non-Intervention Treaty to France
+--------------
+
+Hungary
+
+To United States- Hungary has chosen to Request Military Alliance to United States
+To Britain- Hungary has chosen to Request Military Alliance to Britain
+To France- Hungary has chosen to Request Non-Intervention Treaty to France
+To France- Hungary has chosen to Send Message to France with the following content- We are seeking to form alliances and secure peace. What is your stance?
+--------------
+
+United States
+
+To Britain- United States has chosen to Request Military Alliance to Britain
+To China- United States has chosen to Request Military Alliance to China
+To Russia- United States has chosen to Request Non-Intervention Treaty to Russia
+--------------
+
+Russia
+
+To United States- Russia has chosen to Request Military Alliance to United States
+To Britain- Russia has chosen to Request Military Alliance to Britain
+To China- Russia has chosen to Request Non-Intervention Treaty to China
+--------------
+
+Britain
+
+To United States- Britain has chosen to Request Military Alliance to United States
+To China- Britain has chosen to Request Military Alliance to China
+To Russia- Britain has chosen to Request Non-Intervention Treaty to Russia
+--------------
+
+China
+
+To United States- China has chosen to Request Military Alliance to United States
+To Britain- China has chosen to Request Military Alliance to Britain
+To Russia- China has chosen to Request Non-Intervention Treaty to Russia
+To United States- China has chosen to Send Message to United States with the following content- We request a military alliance to strengthen our power and deter potential enemies.
+To Britain- China has chosen to Send Message to Britain with the following content- We request a military alliance to strengthen our power and deter potential enemies.
+--------------
+
+France
+
+To United States- France has chosen to Request Military Alliance to United States
+To Britain- France has chosen to Request Military Alliance to Britain
+To Japan- France has chosen to Request Non-Intervention Treaty to Japan
+--------------
+
+Board for Country G
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country G
+
+--------
+Board for Country J
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country J
+
+--------
+Board for Country I
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country I
+
+--------
+Board for Country H
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country H
+
+--------
+Board for Country A
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country A
+
+--------
+Board for Country R
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country R
+
+--------
+Board for Country B
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country B
+
+--------
+Board for Country C
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country C
+
+--------
+Board for Country F
+G*-*J G*-*I G*-*H G*-*A G*-*R G*-*B G*-*C G*-*F
+J*-*G J*-*I J*-*H J*-*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*-*G A*-*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*-*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country F
+
+--------
+===================
+~~~~~~~Day 2~~~~~~~
+===================
+Germany
+
+To Russia- Germany has chosen to Request Military Alliance to Russia
+To Japan- Germany has chosen to Reject Non-Intervention Treaty from Japan
+--------------
+
+Japan
+
+Japan has chosen to General Mobilization
+To Germany- Japan has chosen to Accept Military Alliance from Germany
+To France- Japan has chosen to Reject Non-Intervention Treaty from France
+--------------
+
+Italy
+
+Italy has chosen to General Mobilization
+--------------
+
+Hungary
+
+Hungary has chosen to General Mobilization
+--------------
+
+United States
+
+To Germany- United States has chosen to Declare War against Germany
+To Japan- United States has chosen to Declare War against Japan
+To Britain- United States has chosen to Accept Military Alliance from Britain
+To China- United States has chosen to Accept Military Alliance from China
+--------------
+
+Russia
+
+To United States- Russia has chosen to Request Military Alliance to United States
+To Britain- Russia has chosen to Request Military Alliance to Britain
+To Britain- Russia has chosen to Accept Non-Intervention Treaty from Britain
+To Italy- Russia has chosen to Reject Non-Intervention Treaty from Italy
+--------------
+
+Britain
+
+To China- Britain has chosen to Send Message to China with the following content- We are considering your request for a military alliance.
+To United States- Britain has chosen to Accept Military Alliance from United States
+To China- Britain has chosen to Accept Military Alliance from China
+To Japan- Britain has chosen to Reject Military Alliance from Japan
+To Italy- Britain has chosen to Reject Military Alliance from Italy
+To Hungary- Britain has chosen to Reject Military Alliance from Hungary
+To Russia- Britain has chosen to Reject Military Alliance from Russia
+To France- Britain has chosen to Reject Military Alliance from France
+--------------
+
+China
+
+China has chosen to General Mobilization
+To United States- China has chosen to Accept Military Alliance from United States
+To Britain- China has chosen to Accept Military Alliance from Britain
+To Russia- China has chosen to Reject Non-Intervention Treaty from Russia
+--------------
+
+France
+
+To Britain- France has chosen to Request Military Alliance to Britain
+To Germany- France has chosen to Declare War against Germany
+--------------
+
+Board for Country G
+G*&*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*&*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country G
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*&*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country J
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*-*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country I
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*-*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country H
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*-*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*&*B A*&*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*&*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*-*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country A
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*-*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*o*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*o*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country R
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*-*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*&*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*o*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*&*A B*o*R B*&*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*&*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country B
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*-*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*-*B A*&*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*&*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country C
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*-*J G*-*I G*-*H G*x*A G*-*R G*-*B G*-*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*-*R J*-*B J*-*C J*-*F
+I*-*G I*-*J I*-*H I*-*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*-*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*-*G R*-*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*-*G B*-*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*-*G C*-*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*-*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country F
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 3~~~~~~~
+===================
+Germany
+
+Germany has chosen to Wait without Action
+--------------
+
+Japan
+
+To France- Japan has chosen to Declare War against France
+--------------
+
+Italy
+
+To United States- Italy has chosen to Request Non-Intervention Treaty to United States
+To France- Italy has chosen to Request Non-Intervention Treaty to France
+To China- Italy has chosen to Request Non-Intervention Treaty to China
+To Russia- Italy has chosen to Request Non-Intervention Treaty to Russia
+--------------
+
+Hungary
+
+--------------
+
+United States
+
+To Italy- United States has chosen to Declare War against Italy
+To Russia- United States has chosen to Accept Military Alliance from Russia
+--------------
+
+Russia
+
+To Germany- Russia has chosen to Declare War against Germany
+To Japan- Russia has chosen to Declare War against Japan
+To Germany- Russia has chosen to Reject Military Alliance from Germany
+--------------
+
+Britain
+
+Britain has chosen to General Mobilization
+To Germany- Britain has chosen to Declare against Germany
+To Japan- Britain has chosen to Declare against Japan
+To France- Britain has chosen to Reject Military Alliance from France
+To Russia- Britain has chosen to Accept Military Alliance from Russia
+--------------
+
+China
+
+To Germany- China has chosen to Declare against Germany
+To Japan- China has chosen to Declare against Japan
+--------------
+
+France
+
+To United States- France has chosen to Request Military Alliance to United States
+To Britain- France has chosen to Request Military Alliance to Britain
+--------------
+
+Board for Country G
+G*&*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*&*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country G
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*&*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country J
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*-*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country I
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*-*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country H
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*-*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*&*R A*&*B A*&*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*&*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*&*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*&*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country A
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*-*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*&*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*&*A R*&*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*&*R B*-*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country R
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*-*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*&*B A*-*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*-*A R*&*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*&*A B*&*R B*&*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*-*A C*-*R C*&*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country B
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*-*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*&*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*&*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country C
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*-*J G*-*I G*-*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*-*R I*-*B I*-*C I*-*F
+H*-*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*-*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*-*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country F
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 4~~~~~~~
+===================
+Germany
+
+To Italy- Germany has chosen to Request Military Alliance to Italy
+To Hungary- Germany has chosen to Request Military Alliance to Hungary
+--------------
+
+Japan
+
+To United States- Japan has chosen to Request Military Alliance to United States
+To Russia- Japan has chosen to Request Military Alliance to Russia
+To Britain- Japan has chosen to Request Military Alliance to Britain
+To China- Japan has chosen to Request Military Alliance to China
+To France- Japan has chosen to Request Military Alliance to France
+--------------
+
+Italy
+
+To Hungary- Italy has chosen to Request Military Alliance to Hungary
+To Britain- Italy has chosen to Request Military Alliance to Britain
+To China- Italy has chosen to Request Military Alliance to China
+To France- Italy has chosen to Request Military Alliance to France
+--------------
+
+Hungary
+
+To Germany- Hungary has chosen to Declare War against Germany
+To Russia- Hungary has chosen to Request Military Alliance to Russia
+To Britain- Hungary has chosen to Request Military Alliance to Britain
+To China- Hungary has chosen to Request Military Alliance to China
+To France- Hungary has chosen to Request Military Alliance to France
+--------------
+
+United States
+
+United States has chosen to Wait without Action
+To Italy- United States has chosen to Accept Non-Intervention Treaty from Italy
+--------------
+
+Russia
+
+To Italy- Russia has chosen to Declare against Italy
+--------------
+
+Britain
+
+To United States- Britain has chosen to Betray Military Alliance against United States
+To France- Britain has chosen to Accept Military Alliance from France
+--------------
+
+China
+
+To Italy- China has chosen to Declare against Italy
+--------------
+
+France
+
+To United States- France has chosen to Request Military Alliance to United States
+To Britain- France has chosen to Request Military Alliance to Britain
+To Russia- France has chosen to Request Military Alliance to Russia
+To China- France has chosen to Request Military Alliance to China
+To Italy- France has chosen to Accept Non-Intervention Treaty from Italy
+--------------
+
+Board for Country G
+G*&*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*&*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*-*B I*x*C I*-*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*x*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*x*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country G
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*&*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*-*B I*x*C I*-*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*x*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*x*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country J
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*o*A I*x*R I*-*B I*x*C I*o*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*o*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*x*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*x*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*o*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country I
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*-*B I*x*C I*-*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*x*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*x*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country H
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*o*A I*x*R I*-*B I*x*C I*-*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*o*I A*-*H A*&*R A*-*B A*&*C A*&*F
+R*x*G R*x*J R*x*I R*-*H R*&*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*-*F
+C*x*G C*x*J C*x*I C*-*H C*&*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*&*A F*-*R F*-*B F*-*C
+
+Stick for Country A
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*-*B I*x*C I*-*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*&*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*x*I R*-*H R*&*A R*&*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*&*R B*-*C B*-*F
+C*x*G C*x*J C*x*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country R
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*-*B I*x*C I*-*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*x*I R*-*H R*-*A R*&*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*&*R B*&*C B*&*F
+C*x*G C*x*J C*x*I C*-*H C*-*A C*-*R C*&*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*&*B F*-*C
+
+Stick for Country B
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*-*B I*x*C I*-*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*&*C A*-*F
+R*x*G R*x*J R*x*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*&*C B*-*F
+C*x*G C*x*J C*x*I C*-*H C*&*A C*-*R C*&*B C*-*F
+F*x*G F*x*J F*-*I F*-*H F*-*A F*-*R F*-*B F*-*C
+
+Stick for Country C
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*-*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*-*B I*x*C I*o*F
+H*x*G H*-*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*-*R A*-*B A*-*C A*-*F
+R*x*G R*x*J R*x*I R*-*H R*-*A R*-*B R*-*C R*-*F
+B*x*G B*x*J B*-*I B*-*H B*-*A B*-*R B*-*C B*&*F
+C*x*G C*x*J C*x*I C*-*H C*-*A C*-*R C*-*B C*-*F
+F*x*G F*x*J F*o*I F*-*H F*-*A F*-*R F*&*B F*-*C
+
+Stick for Country F
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+===================
+~~~~~~~Day 5~~~~~~~
+===================
+Germany
+
+To Italy- Germany has chosen to Request Military Alliance to Italy
+--------------
+
+Japan
+
+To Hungary- Japan has chosen to Declare War against Hungary
+--------------
+
+Italy
+
+--------------
+
+Hungary
+
+To Russia- Hungary has chosen to Request Military Alliance to Russia
+To China- Hungary has chosen to Request Military Alliance to China
+To Germany- Hungary has chosen to Reject Military Alliance from Germany
+To Italy- Hungary has chosen to Reject Military Alliance from Italy
+--------------
+
+United States
+
+To France- United States has chosen to Betray Military Alliance against France
+To Russia- United States has chosen to Declare against Russia
+To Britain- United States has chosen to Declare against Britain
+To China- United States has chosen to Declare against China
+To France- United States has chosen to Declare against France
+To Japan- United States has chosen to Accept Military Alliance from Japan
+--------------
+
+Russia
+
+To Japan- Russia has chosen to Declare against Japan
+To Hungary- Russia has chosen to Accept Military Alliance from Hungary
+To France- Russia has chosen to Accept Military Alliance from France
+--------------
+
+Britain
+
+To Russia- Britain has chosen to Betray Military Alliance against Russia
+To France- Britain has chosen to Betray Military Alliance against France
+To Japan- Britain has chosen to Betray Military Alliance against Japan
+To Italy- Britain has chosen to Betray Military Alliance against Italy
+To Russia- Britain has chosen to Betray Military Alliance against Russia
+To Japan- Britain has chosen to Declare against Japan
+To Italy- Britain has chosen to Declare against Italy
+--------------
+
+China
+
+To Japan- China has chosen to Betray Military Alliance against Japan
+To Italy- China has chosen to Betray Military Alliance against Italy
+To Japan- China has chosen to Declare against Japan
+To Italy- China has chosen to Declare against Italy
+To Japan- China has chosen to Reject Military Alliance from Japan
+To Italy- China has chosen to Reject Military Alliance from Italy
+To Hungary- China has chosen to Reject Military Alliance from Hungary
+To France- China has chosen to Reject Military Alliance from France
+--------------
+
+France
+
+To United States- France has chosen to Declare against United States
+To Russia- France has chosen to Declare against Russia
+To Britain- France has chosen to Declare against Britain
+To China- France has chosen to Declare against China
+To Japan- France has chosen to Reject Military Alliance from Japan
+To Italy- France has chosen to Reject Military Alliance from Italy
+To Hungary- France has chosen to Reject Military Alliance from Hungary
+--------------
+
+Board for Country G
+G*&*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*&*G J*-*I J*x*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*x*B I*x*C I*-*F
+H*x*G H*x*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*-*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*-*H B*x*A B*-*R B*-*C B*x*F
+C*x*G C*x*J C*x*I C*-*H C*x*A C*-*R C*-*B C*x*F
+F*x*G F*x*J F*-*I F*-*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country G
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country J
+G*&*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*&*G J*-*I J*x*H J*&*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*x*B I*x*C I*-*F
+H*x*G H*x*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*&*J A*x*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*-*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*-*H B*x*A B*-*R B*-*C B*x*F
+C*x*G C*x*J C*x*I C*-*H C*x*A C*-*R C*-*B C*x*F
+F*x*G F*x*J F*-*I F*-*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country J
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country I
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*x*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*o*A I*x*R I*x*B I*x*C I*o*F
+H*x*G H*x*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*o*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*-*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*-*H B*x*A B*-*R B*-*C B*x*F
+C*x*G C*x*J C*x*I C*-*H C*x*A C*-*R C*-*B C*x*F
+F*x*G F*x*J F*o*I F*-*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country I
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country H
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*x*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*x*B I*x*C I*-*F
+H*x*G H*x*J H*-*I H*-*A H*&*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*&*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*-*H B*x*A B*-*R B*-*C B*x*F
+C*x*G C*x*J C*x*I C*-*H C*x*A C*-*R C*-*B C*x*F
+F*x*G F*x*J F*-*I F*-*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country H
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country A
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*x*H J*&*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*o*A I*x*R I*x*B I*x*C I*-*F
+H*x*G H*x*J H*-*I H*-*A H*-*R H*-*B H*-*C H*-*F
+A*x*G A*&*J A*o*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*-*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*-*H B*x*A B*-*R B*-*C B*x*F
+C*x*G C*x*J C*x*I C*-*H C*x*A C*-*R C*-*B C*x*F
+F*x*G F*x*J F*-*I F*-*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country A
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country R
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*x*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*x*B I*x*C I*-*F
+H*x*G H*x*J H*-*I H*-*A H*&*R H*-*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*&*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*-*H B*x*A B*-*R B*-*C B*x*F
+C*x*G C*x*J C*x*I C*-*H C*x*A C*-*R C*-*B C*x*F
+F*x*G F*x*J F*-*I F*-*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country R
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country B
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*x*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*x*B I*x*C I*-*F
+H*x*G H*x*J H*-*I H*-*A H*-*R H*&*B H*-*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*-*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*&*H B*x*A B*-*R B*&*C B*x*F
+C*x*G C*x*J C*x*I C*-*H C*x*A C*-*R C*&*B C*x*F
+F*x*G F*x*J F*-*I F*-*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country B
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country C
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*x*H J*x*A J*x*R J*x*B J*x*C J*x*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*x*B I*x*C I*-*F
+H*x*G H*x*J H*-*I H*-*A H*-*R H*-*B H*&*C H*-*F
+A*x*G A*x*J A*x*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*-*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*-*H B*x*A B*-*R B*&*C B*x*F
+C*x*G C*x*J C*x*I C*&*H C*x*A C*-*R C*&*B C*x*F
+F*x*G F*x*J F*-*I F*-*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country C
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------
+Board for Country F
+G*-*J G*-*I G*x*H G*x*A G*x*R G*x*B G*x*C G*x*F
+J*-*G J*-*I J*x*H J*x*A J*x*R J*x*B J*x*C J*&*F
+I*-*G I*-*J I*-*H I*x*A I*x*R I*x*B I*x*C I*&*F
+H*x*G H*x*J H*-*I H*-*A H*-*R H*-*B H*-*C H*&*F
+A*x*G A*x*J A*x*I A*-*H A*x*R A*x*B A*x*C A*x*F
+R*x*G R*x*J R*x*I R*-*H R*x*A R*-*B R*-*C R*x*F
+B*x*G B*x*J B*x*I B*-*H B*x*A B*-*R B*-*C B*x*F
+C*x*G C*x*J C*x*I C*-*H C*x*A C*-*R C*-*B C*x*F
+F*x*G F*&*J F*&*I F*&*H F*x*A F*x*R F*x*B F*x*C
+
+Stick for Country F
+Country J's army is mobilized. Country I's army is mobilized. Country H's army is mobilized. Country A's army is mobilized. Country R's army is mobilized. Country B's army is mobilized. Country C's army is mobilized. Country F's army is mobilized. 
+--------

@@ -22,7 +22,8 @@ __license__ = "Apache 2.0"
 __version__ = "0.0.1"
 
 import anthropic
-from openai import OpenAI
+import openai
+# from openai import OpenAI
 from utils import *
 
 def generate_action(prompt, model, round):
@@ -147,16 +148,26 @@ def run_claude(text_prompt, max_tokens_to_sample: int = 100000, temperature: flo
     return resp
 
 def run_gpt(text_prompt, temperature: float = 0, model = "gpt-4-1106-preview"):
-    open_ai_key = os.environ["OPENAI_API_KEY"]
-    # can also use gpt-3.5-turbo or gpt-4
-    client = OpenAI(api_key=open_ai_key)
-    response = client.chat.completions.create(
+    # open_ai_key = os.environ["OPENAI_API_KEY"]
+    # # can also use gpt-3.5-turbo or gpt-4
+    # client = OpenAI(api_key=open_ai_key)
+    # response = client.chat.completions.create(
+    #   model = model, 
+    #   messages=[
+    #     {"role": "user", "content": text_prompt},
+    #   ],
+    #   temperature=temperature,
+    # )
+
+    openai.api_key = ""
+    response = openai.ChatCompletion.create(
       model = model, 
       messages=[
         {"role": "user", "content": text_prompt},
       ],
       temperature=temperature,
     )
+
     resp = response.choices[0].message.content   
     resp = resp.replace("""```json""", '').replace("""```""", '') 
     return resp
