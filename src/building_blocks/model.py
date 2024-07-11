@@ -160,17 +160,20 @@ def run_gpt(text_prompt, temperature: float = 0, model = "gpt-4-1106-preview"):
     # )
 
     openai.api_key = os.getenv('OPENAI_API_KEY')
-    response = openai.ChatCompletion.create(
-      model = model, 
-      messages=[
-        {"role": "user", "content": text_prompt},
-      ],
-      temperature=temperature,
-    )
+    try:
+        response = openai.ChatCompletion.create(
+        model = model, 
+        messages=[
+            {"role": "user", "content": text_prompt},
+        ],
+        temperature=temperature,
+        )
 
-    resp = response.choices[0].message.content   
-    resp = resp.replace("""```json""", '').replace("""```""", '') 
-    return resp
+        resp = response.choices[0].message.content   
+        resp = resp.replace("""```json""", '').replace("""```""", '') 
+        return resp
+    except:
+        time.sleep(60)
 
 
 # llm_lingua = PromptCompressor()
