@@ -1,7 +1,8 @@
 import openai
+import os
 
 # Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = ""
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 def test_openai_api():
     try:
